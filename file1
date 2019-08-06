@@ -14,3 +14,6 @@ Rsest Demo -3
 stash demo -1
 rebase demo -2
 rebase demo -3
+rebase demo -1
+rebase demo -4
+rebase demo -1
